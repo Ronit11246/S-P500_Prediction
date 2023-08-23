@@ -23,6 +23,5 @@ Feel free to explore the code and methodology to understand how we approached th
 - Matplotlib
 - Scikit-learn
 - XGBoost
-
-Check out the code to dive into the world of stock prediction and machine learning!
-
+  
+![acc](https://github.com/Ronit11246/S-P500_Prediction/assets/108767208/9b767859-eafc-4472-8542-049d1adabe5b)
